@@ -1,4 +1,4 @@
-### Krishan Verma
+### Krishan Kumar Verma
 
 I build AI agents that ship.
 
