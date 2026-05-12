@@ -7,3 +7,5 @@ Working on autonomous systems that turn messy human workflows into clean LLM-pow
 Currently building in public.
 
 Available for **remote roles** and **freelance** — krishnaverma60606@gmail.com
+
+Learning in public — documenting the build process daily.
