@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+
+# Environment & secrets
+.env
+.env.*
+*.key
+secrets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+package-lock.json
+
+# AI/ML
+*.ckpt
+*.pt
+*.bin
+*.safetensors
+*.h5
+datasets/
+models/
+checkpoints/
+wandb/
+mlruns/
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+*.egg-info/
