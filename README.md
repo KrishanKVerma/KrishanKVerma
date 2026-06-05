@@ -16,7 +16,7 @@ Working on autonomous systems that turn messy human workflows into clean, LLM-po
 
 **What I work with**
 
-Python · LangGraph · multi-agent orchestration · LLM application design · FastAPI · Next.js
+Python  · RAG  · LangGraph · multi-agent orchestration · LLM application design · FastAPI · Crew AI
 
 ---
 
